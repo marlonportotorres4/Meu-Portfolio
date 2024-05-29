@@ -385,7 +385,7 @@ font-size: 60px;
 
 .fa-envelope:hover, .fa-phone:hover{
   color: inherit;
-    transform:none
+    transform:none;
   }
 
 #rodape {
