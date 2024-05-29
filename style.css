@@ -383,6 +383,10 @@ font-size: 60px;
   transform: scale(0.98);
 }
 
+.fa-envelope:hover, .fa-phone:hover{
+  color: inherit;
+    transform:none
+  }
 
 #rodape {
   background-color: #ebd9a7; 
